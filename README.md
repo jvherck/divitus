@@ -1,13 +1,13 @@
 # Divitus
 ## Table Of Contents
-1. [Privacy Policy](#privacy-policy)
-  a. [Stored Data](#stored-data)
-  b. [Data Usage](#data-usage)
-  c. [Accesss To Data](#access-to-data)
-  d. [Contact](#contact)
-  e. [Data Removal](#data-removal)
-3. [Troubleshooting](#troubleshooting)
-  a. [Bot not reacting to message commands although it's online](#bot-not-reacting-to-message-commands-although-it's-online)
+1. [Privacy Policy](#privacy-policy)\
+  a. [Stored Data](#stored-data)\
+  b. [Data Usage](#data-usage)\
+  c. [Accesss To Data](#access-to-data)\
+  d. [Contact](#contact)\
+  e. [Data Removal](#data-removal)\
+3. [Troubleshooting](#troubleshooting)\
+  a. [Bot not reacting to message commands although it's online](#bot-not-reacting-to-message-commands-although-it's-online)\
 
 ## Privacy Policy
 ### Stored Data
