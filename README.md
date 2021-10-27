@@ -7,7 +7,7 @@
   d. [Contact](#contact)\
   e. [Data Removal](#data-removal)
 3. [Troubleshooting](#troubleshooting)\
-  a. [Bot not reacting to message commands although it's online](#bot-not-reacting-to-message-commands-although-it's-online)
+  a. [Bot not reacting to message commands although it's online](#bot-not-reacting-to-message-commands-although-its-online)
 
 ## Privacy Policy
 ### Stored Data
