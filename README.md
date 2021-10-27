@@ -1,1 +1,24 @@
-# divitus
+# Divitus
+
+## Privacy Policy
+### Stored Data
+- User IDs
+- User names
+- Server (aka guild) IDs
+- Message IDs
+
+### Data Usage
+- User IDs are stored in the database to store every player's statistics and items for the bot (users who did not use an "economy" command will not be saved into our database).
+- User names are saved to make it easier to organise stuff and quickly find the right information.
+- Server IDs are used to store the server settings and make sure your server keeps its own customisation.
+- Message IDs can be stored for the bot's configuration or special commands.
+
+### Access To Data
+Only the bot developer has access to the database and is the only one allowed to view this information.
+
+### Contact
+If you want to contact me regarding the bot, you can join the support server or DM me on `jvh#8686`.
+
+### Data Removal
+If you want your data to be removed from the bot you can use the command `/settings reset True`: this will delete all your information in the bot. (Note: this will remove all your progress too since your information is wiped from the whole database!)
+If you want your server (=guild) data to be removed, you can join the support server and open a ticket to 
