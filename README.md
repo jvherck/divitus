@@ -1,7 +1,7 @@
 # Divitus
 ## Table Of Contents
-1. [Privacy Policy]()
-2. [Troubleshooting]()
+1. [Privacy Policy](#privacy-policy)
+2. [Troubleshooting](#troubleshooting)
 
 ## Privacy Policy
 ### Stored Data
