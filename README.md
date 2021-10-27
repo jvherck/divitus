@@ -20,5 +20,5 @@ Only the bot developer has access to the database and is the only one allowed to
 If you want to contact me regarding the bot, you can join the support server or DM me on `jvh#8686`.
 
 ### Data Removal
-If you want your data to be removed from the bot you can use the command `/settings reset True`: this will delete all your information in the bot. (Note: this will remove all your progress too since your information is wiped from the whole database!)
-If you want your server (=guild) data to be removed, you can join the support server and open a ticket to 
+If you want your _personal data_ to be removed from the bot you can use the **command** `/settings reset True`: this will delete all your information in the bot. (Note: this will remove all your progress too since your information is wiped from the whole database!) \
+If you want your _server (=guild) data_ to be removed, you can join the **support server** and open a ticket to let us know. We will remove this data. (Note: normal commands with prefix will not work anymore, and some other features of the bot might not work either!)
