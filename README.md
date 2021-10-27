@@ -17,7 +17,7 @@
 Only the bot developer has access to the database and is the only one allowed to view this information.
 
 ### Contact
-If you want to contact me regarding the bot, you can join the support server or DM me on `jvh#8686`.
+If you want to contact me regarding the bot, you can join the support server or DM me on `jvh#8686`. It's possible I might change tag or name, my correct username is always show on the `/info` command!
 
 ### Data Removal
 If you want your _personal data_ to be removed from the bot you can use the **command** `/settings reset True`: this will delete all your information in the bot. (Note: this will remove all your progress too since your information is wiped from the whole database!) \
