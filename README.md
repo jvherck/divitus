@@ -30,9 +30,10 @@ If you want to contact me regarding the bot, you can join the support server or 
 
 ### Data Removal
 If you want your _personal data_ to be removed from the bot you can use the **command** `/settings reset True`: this will delete all your information in the bot. (Note: this will remove all your progress too since your information is wiped from the whole database!) \
+\
 If you want your _server (=guild) data_ to be removed, you can join the **support server** and open a ticket to let us know. We will remove this data. (Note: normal commands with prefix will not work anymore, and some other features of the bot might not work either!)
 
 
 ## Troubleshooting
 ### Bot not reacting to message commands although it's online
-It's possible something went wrong while the bot automatically sets itself up when joining your server. If it doesn't react join the support server and give the server/guild ID of the server with the occuring problem.
+It's possible something went wrong while the bot automatically sets itself up when joining your server. If it doesn't respond to anything, join the support server, open a ticket and give the server/guild ID of the server with the occuring problem.
